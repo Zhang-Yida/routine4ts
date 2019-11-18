@@ -1,0 +1,18 @@
+{
+  "name": "routine4ts",
+  "version": "1.0.0",
+  "description": "Routine for Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/Zhang-Yida/routine4ts.git",
+  "author": "<zhangm19910220@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node scripts/dev.js"
+  },
+  "devDependencies": {
+    "execa": "^3.3.0",
+    "rollup": "^1.27.1",
+    "rollup-plugin-typescript2": "^0.25.2",
+    "typescript": "^3.7.2"
+  }
+}
