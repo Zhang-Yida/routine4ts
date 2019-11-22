@@ -1,4 +1,7 @@
-import basicTypesConsole from './basic-types'
+import basicTypesConsole from "./basic-types";
+import varDeclarationConsole from "./var-declaration";
+import interfaceConsole from "./interface";
 
-basicTypesConsole()
-
+basicTypesConsole();
+varDeclarationConsole();
+interfaceConsole();
